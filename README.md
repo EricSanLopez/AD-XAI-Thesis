@@ -25,8 +25,8 @@
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/transparent-AI-healthcare.git
-   cd transparent-AI-healthcare
+   git clone https://github.com/EricSanLopez/AD-XAI-Thesis.git
+   cd AD-XAI-Thesis
    ```
 
 2. **Create and activate a virtual environment**  
@@ -52,13 +52,13 @@
 - **Purpose:**  
   - Exploratory Data Analysis (EDA)  
   - Data preprocessing  
-  - Model definition (multimodal fusion)  
+  - Model definition  
   - Hyperparameter tuning & evaluation  
-  - Explainability methods (SHAP, attention maps)
+  - Explainability methods (SHAP, importance maps)
 
 ### 02_dashboard.ipynb
 - **Purpose:**  
-  - Dash application for interactive result visualization  
+  - Dash application for interactive result visualisation  
   - User-friendly interface for clinicians to explore predictions and explanations
 
 ### 03_lm_sft_pipeline.ipynb
@@ -91,9 +91,8 @@
 - Python ≥ 3.8  
 - Jupyter Notebook / JupyterLab  
 - Dash  
-- PyTorch or TensorFlow  
 - scikit-learn, pandas, numpy  
-- SHAP, Captum  
+- SHAP  
 - Hugging Face Transformers
 
 Refer to `requirements.txt` for the full dependency list.
@@ -110,4 +109,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 **Èric Sánchez López**  
 - Email: ericsanlopez@gmail.com  
+
 - LinkedIn: https://www.linkedin.com/in/eric-sanchez-lopez
