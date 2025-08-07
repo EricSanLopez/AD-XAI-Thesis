@@ -50,6 +50,16 @@ To ease clinician interaction, the results are displayed in an interactive Dash 
 
 ---
 
+## Data structure
+
+Tabular data merged with FastSurfer statistics is loaded from the path `"../ADNI_Processed/augmented_ADNIMERGE_v1.csv"`.
+
+Results are written to `"./results/{patient_id}"` where `patient_id` is determined from the data's `PTID` column.
+
+In the dashboard, the patient's ID can be specified in the first cell of the notebook. The model is loaded from the weights in a folder named `lfm2-sft/` in the same directory.
+
+---
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
@@ -61,6 +71,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 **Èric Sánchez López**  
 - Email: ericsanlopez@gmail.com
 - LinkedIn: [https:/linkedin.com/in/ericsanlopez](https:/linkedin.com/in/ericsanlopez)
+
 
 
 
