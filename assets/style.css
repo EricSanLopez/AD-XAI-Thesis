@@ -1,0 +1,6 @@
+#svg-wrapper { overflow: auto; height: 600px; }
+#inline-svg  { width: 100%; height: auto; transition: transform 0.3s ease; }
+.zoomed #inline-svg {
+  transform-origin: 0 0;
+  transform: scale(2);
+}
