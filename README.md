@@ -60,5 +60,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - Email: ericsanlopez@gmail.com
 - LinkedIn: [https:/linkedin.com/in/ericsanlopez](https:/linkedin.com/in/ericsanlopez)
 
-- LinkedIn: https://www.linkedin.com/in/eric-sanchez-lopez
 
