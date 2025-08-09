@@ -47,6 +47,7 @@ To ease clinician interaction, the results are displayed in an interactive Dash 
 - **Purpose:**
   - Dataset creation from Gemini, training loop, validation, and checkpointing
   - Supervised fine-tuning pipeline for a pretrained language model
+  - Feature name appearance: precision and recall metric computation
 
 ---
 
@@ -71,6 +72,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 **Èric Sánchez López**  
 - Email: ericsanlopez@gmail.com
 - LinkedIn: [https:/linkedin.com/in/ericsanlopez](https:/linkedin.com/in/ericsanlopez)
+
 
 
 
